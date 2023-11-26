@@ -1,0 +1,3 @@
+interface TotalTagihan{
+    double hitungTotalTagihan();
+}
